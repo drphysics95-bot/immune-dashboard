@@ -7,13 +7,9 @@ export default function RecentJobs(){
  ]
 
  return(
-
   <div className="card">
-
    <h2>Recent Jobs</h2>
-
    <table width="100%">
-
     <thead>
      <tr>
       <th>File</th>
